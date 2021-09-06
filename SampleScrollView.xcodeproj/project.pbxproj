@@ -59,12 +59,20 @@
 				2A6F8B8826E63BA7006B340D /* AppDelegate.swift */,
 				2A6F8B8A26E63BA7006B340D /* SceneDelegate.swift */,
 				2A6F8B8C26E63BA7006B340D /* ViewController.swift */,
-				2A6F8B8E26E63BA7006B340D /* Main.storyboard */,
+				2A6F8B9C26E67DDA006B340D /* Signup */,
 				2A6F8B9126E63BA9006B340D /* Assets.xcassets */,
 				2A6F8B9326E63BA9006B340D /* LaunchScreen.storyboard */,
 				2A6F8B9626E63BA9006B340D /* Info.plist */,
 			);
 			path = SampleScrollView;
+			sourceTree = "<group>";
+		};
+		2A6F8B9C26E67DDA006B340D /* Signup */ = {
+			isa = PBXGroup;
+			children = (
+				2A6F8B8E26E63BA7006B340D /* Main.storyboard */,
+			);
+			path = Signup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
